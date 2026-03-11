@@ -1,4 +1,4 @@
-## Hi there / Приветствую 👋
+## Приветствую / Hi there 👋
 
 <!--
 **ConStranger/ConStranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
