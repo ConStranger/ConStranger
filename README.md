@@ -22,16 +22,16 @@
 Проект позволяет сгенерировать логотип для компании, комбинируя в prompt предопределенные стили и описание вводимое пользователем. Также по результатам первичной генерации можно дополнить описание и перегенерировать изображение.
 Для генерации используется YandexART API. Управление генерацией с помощью небольшого сайта на Flask.
 
-[Пример результата](results/zc_pe102/screens.md) / [project perository](https://github.com/ConStranger/learn-zc-pe102)
+[Пример результата](results/zc_pe102/screens.md) / [project repository](https://github.com/ConStranger/learn-zc-pe102)
 
 ### Генератор видео
 Проект позволяет сгенерировать видео по текстовому описанию. Испольуется модель sora-2 от OpenAI через proxyapi.ru или напрямую.
 Реализовано 2 варианта интерфейса: бот в телеграм и сайт (Flask) с индикацией прогресса генерации.
 
-[Пример результата](results/zc_pe104/screens.md) / [project perository](https://github.com/ConStranger/learn-zc-pe104)
+[Пример результата](results/zc_pe104/screens.md) / [project repository](https://github.com/ConStranger/learn-zc-pe104)
 
 ### Бот нутрициолог
 Проект реализует telegram бота, который запрашивает у пользователя минимальные данные для расчета ежедневной нормы калорий и используя эту информацию может генерировать меню на неделю c помощью ИИ агента. Реализация выполнена на основе no-code платформы-конструктора salebot.pro
 
-[Пример результата](results/zcin_botnutri/screens.md) / [project perository](https://github.com/ConStranger/learn-zcin-botnutri)
+[Пример результата](results/zcin_botnutri/screens.md) / [project repository](https://github.com/ConStranger/learn-zcin-botnutri)
 
