@@ -31,7 +31,7 @@
 [Пример результата](results/zc_pe104/screens.md) / [project perository](https://github.com/ConStranger/learn-zc-pe104)
 
 ### Бот нутрициолог
-_.. todo .._
+Проект реализует telegram бота, который запрашивает у пользователя минимальные данные для расчета ежедневной нормы калорий и используя эту информацию может генерировать меню на неделю c помощью ИИ агента. Реализация выполнена на основе no-code платформы-конструктора salebot.pro
 
 [Пример результата](results/zcin_botnutri/screens.md) / [project perository](https://github.com/ConStranger/learn-zcin-botnutri)
 
