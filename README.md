@@ -14,7 +14,7 @@
 
 ## 🗃️ Проекты
 
-🚧🚧 Внимание: раздел дорабатывается 🚧🚧
+🚧🚧 Внимание: раздел дорабатывается! 🚧🚧
 
 В репозиториях выложены некоторые из проектов, реализованных в процессе освоения технологий и инструментов для работы с ИИ, в том числе в рамках прохождения курса "Prompt Engineering" Университета Zerocoder.<br> 
 (p.s. К приватным проектам, отмеченным 🔒 доступ могу предоставить по запросу)
@@ -36,3 +36,16 @@
 
 [Пример результата](results/zcin_botnutri/screens.md) ([project repository](https://github.com/ConStranger/learn-zcin-botnutri))
 
+## 👨🏻‍🎓 Сертификаты
+Ниже представлены некоторые из моих сертификатов по результатам обучения
+
+📌 _Кликните уменьшенное изображение чтобы посмотреть полноразмерный скриншот_
+
+| Интенсив по промпт-инжинирингу. Диплом №21630. | Интенсив по программированию на Python с помощью chatGPT. Диплом №21788. | Интенсив по разработке Telegram-бота-нутрициолога с AI-ассистентом на Salebot. Диплом №34602 |
+|--------|--------|--------|
+| [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/853d1ba78f35e35100f03ce923192a28.png/s/800x/a/256825/sc/41" width="250">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/853d1ba78f35e35100f03ce923192a28.png/s/800x/a/256825/sc/41) | [<img src="https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/67293ac550bb62d33ec5f7e7b5879fa7.png/s/800x/a/256825/sc/210" width="250">](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/67293ac550bb62d33ec5f7e7b5879fa7.png/s/800x/a/256825/sc/210) |  [<img src="https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/02881ad96bf569bc593468f2dfd247f3.png/s/800x/a/256825/sc/167" width="250">](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/02881ad96bf569bc593468f2dfd247f3.png/s/800x/a/256825/sc/167) |
+
+<!--
+BASE_URL="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/"
+|--------|--------|--------|
+-->
