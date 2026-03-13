@@ -8,7 +8,7 @@
 
 | контроль исходного промпта во избежание случайных запусков ➡️ | запуск генерации, отображение прогресса... ➡️ | ... просмотр полученного видео ➡️ |
 |--------|--------|--------|
-| [<img src="tgbot0.webp" width="200">](tgbot0.webp) | [<img src="tgbot1.webp" width="200">](tgbot1.webp)<br> [<img src="tgbot2.webp" width="200">](tgbot2.webp)<br> [<img src="tgbot4.webp" width="200">](tgbot4.webp) | [<img src="tgbot5.webp" width="200">](tgbot5.webp)&nbsp;[<img src="tgbot6.webp" width="200">](tgbot6.webp) |
+| [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot0.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot0.webp) | [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot1.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot1.webp)<br> [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot2.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot2.webp)<br> [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot4.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot4.webp) | [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot5.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot5.webp)&nbsp;[<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot6.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/tgbot6.webp) |
 
 ### Генерация на сайте
 
@@ -22,7 +22,7 @@
 
 | сайт в браузере, консоль сервера с командами запуска | отображение прогресса генерации  | кадры видео: анимация ➡️ взмах магического платка ➡️ |
 |--------|--------|--------|
-| [<img src="site1.webp" width="200">](site1.webp) | [<img src="site2.webp" width="200">](site2.webp)<br> [<img src="site3.webp" width="200">](site3.webp) | [<img src="site5.webp" width="200">](site5.webp)&nbsp;[<img src="site6.webp" width="200">](site6.webp)&nbsp;[<img src="site7.webp" width="200">](site7.webp) |
+| [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/site1.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/site1.webp) | [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/site2.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/site2.webp)<br> [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/site3.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/site3.webp) | [<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/site5.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/site5.webp)&nbsp;[<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/site6.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/site6.webp)&nbsp;[<img src="https://github.com/ConStranger/zcprj-res/blob/main/pe104/site7.webp" width="200">](https://github.com/ConStranger/zcprj-res/blob/main/pe104/site7.webp) |
 
 <!--
 BASE_URL="https://github.com/ConStranger/zcprj-res/blob/main/pe104/"
