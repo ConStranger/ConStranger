@@ -48,7 +48,7 @@
 ## 👨🏻‍🎓 Сертификаты
 Ниже представлены некоторые из моих сертификатов по результатам обучения
 
-| "Промпт инжиниринг" (продвинутая программа). Диплом №40509 | "Вайб-кодинг с OpenClaw" (практический курс). Диплом №41070 |
+| "Промпт инжиниринг" (продвинутая программа).<br>Диплом №40509 | "Вайб-кодинг с OpenClaw" (практический курс).<br>Диплом №41070 |
 |--------|--------|
 | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/012e363e2dcf6d9c9ca91920b0b87e9e.png/s/800x/a/256825/sc/246" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/012e363e2dcf6d9c9ca91920b0b87e9e.png/s/800x/a/256825/sc/246) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217) |
 
