@@ -48,9 +48,9 @@
 ## 👨🏻‍🎓 Сертификаты
 Ниже представлены некоторые из моих сертификатов по результатам обучения
 
-| "Промпт инжиниринг" (продвинутая программа).<br>Диплом №40509 | "Вайб-кодинг с OpenClaw" (практический курс).<br>Диплом №41070 |
+| "Промпт инжиниринг" (продвинутая программа).<br>Диплом №42197 | "Вайб-кодинг с OpenClaw" (практический курс).<br>Диплом №41070 |
 |--------|--------|
-| [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/012e363e2dcf6d9c9ca91920b0b87e9e.png/s/800x/a/256825/sc/246" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/012e363e2dcf6d9c9ca91920b0b87e9e.png/s/800x/a/256825/sc/246) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217) |
+| [<img src="https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106" height="150">](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217) |
 
 | Интенсив по промпт-инжинирингу. Диплом №21630. | Интенсив по программированию на Python с помощью chatGPT. Диплом №21788. | Интенсив по разработке Telegram-бота-нутрициолога с AI-ассистентом на Salebot. Диплом №34602 | Интенсив по вайбкодингу 3.0. Диплом №37628 |
 |--------|--------|--------|--------|
