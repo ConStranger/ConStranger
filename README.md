@@ -19,11 +19,15 @@
 В репозиториях выложены некоторые из проектов, реализованных в процессе освоения технологий и инструментов для работы с ИИ, в том числе в рамках прохождения курсов Университета Zerocoder "Prompt Engineering", "Вайб-кодинг с OpenClaw", а иакже интенсивов по ИИ тематике.<br> 
 (p.s. К приватным проектам, отмеченным 🔒 доступ могу предоставить по запросу)
 
+### Персональный бот ИИ-ассистент для работы с заметками и напоминаниями
+Telegram-бот, который принимает произвольные фразы на русском языке, классифицирует их через локальную LLM (трёхпроходная архитектура), сохраняет в базу данных с извлечением сущностей, тегов и временных меток, и управляет напоминаниями. Работает полностью на локальной инфраструктуре — данные не покидают домашний сервер.
+
+Пример результата (🚧 скоро) & [README](results/ast-cj-mvp1/README_copy.md)  / [project repository - MVP v1](https://github.com/ConStranger/ast-cj) / [project repository - v2](https://github.com/ConStranger/ast-cj2) (🚧 в работе)
 
 ### Бот нутрициолог
 Проект реализует telegram бота, который запрашивает у пользователя минимальные данные для расчета ежедневной нормы калорий и используя эту информацию может генерировать меню на неделю c помощью ИИ агента. Реализация выполнена на основе no-code платформы-конструктора salebot.pro
 
-[Пример результата](results/zcin_botnutri/screens.md) ([project repository](https://github.com/ConStranger/learn-zcin-botnutri))
+[Пример результата](results/zcin_botnutri/screens.md) / [project repository](https://github.com/ConStranger/learn-zcin-botnutri)
 
 ### OpenClaw агент для обработки обращений клиентов
 
@@ -31,26 +35,30 @@
 
 Задача агента понять суть запроса пользователя, классифицировать его (статус заказа, наличие товара, проблема), найти нужные данные, сформировать ответ для клиента и саммари для оператора/менеджера. Агент ведет лог обращений в виде тикетов с отметками требуется ли последующее участие менеджера или обращение отработано автоматически и закрыто. Работа с источниками данных упрощена, используются предопределенные json файлы для каталога товаров и реесстра заказов, а также база знаний с правилами работы магазина. Возможна работа через telegram.
 
-[Пример результата](results/zc_oc26/screens.md) ([project repository 🔒](https://github.com/ConStranger/learn-zc-oc26))
+[Пример результата](results/zc_oc26/screens.md) / [project repository 🔒](https://github.com/ConStranger/learn-zc-oc26)
 
 ### Генератор логотипов
 Проект позволяет сгенерировать логотип для компании, комбинируя в prompt предопределенные стили и описание, вводимое пользователем. Также по результатам первичной генерации можно дополнить описание и перегенерировать изображение.
 Для генерации используется YandexART API. Управление генерацией с помощью небольшого сайта на Flask. Сайт развернут на VPS сервере, который создан и настроен для этой цели в рамках проекта.
 
-[Пример результата](results/zc_pe102/screens.md) ([project repository 🔒](https://github.com/ConStranger/learn-zc-pe102))
+[Пример результата](results/zc_pe102/screens.md) / [project repository 🔒](https://github.com/ConStranger/learn-zc-pe102)
 
 ### Генератор видео
 Проект позволяет сгенерировать видео по текстовому описанию. Испольуется модель sora-2 от OpenAI через proxyapi.ru или напрямую.
 Реализовано 2 варианта интерфейса: бот в телеграм и сайт (Flask) с индикацией прогресса генерации. Сайт развернут на VPS, как и в предыдущем проекте.
 
-[Пример результата](results/zc_pe104/screens.md) ([project repository 🔒](https://github.com/ConStranger/learn-zc-pe104))
+[Пример результата](results/zc_pe104/screens.md) / [project repository 🔒](https://github.com/ConStranger/learn-zc-pe104)
 
 ## 👨🏻‍🎓 Сертификаты
 Ниже представлены некоторые из моих сертификатов по результатам обучения
 
-| Программа "Промпт инжиниринг". Диплом №40509 | Интенсив по промпт-инжинирингу. Диплом №21630. | Интенсив по программированию на Python с помощью chatGPT. Диплом №21788. | Интенсив по разработке Telegram-бота-нутрициолога с AI-ассистентом на Salebot. Диплом №34602 | Интенсив по вайбкодингу 3.0. Диплом №37628 |
-|--------|--------|--------|--------|--------|
-| [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/012e363e2dcf6d9c9ca91920b0b87e9e.png/s/800x/a/256825/sc/246" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/012e363e2dcf6d9c9ca91920b0b87e9e.png/s/800x/a/256825/sc/246) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/853d1ba78f35e35100f03ce923192a28.png/s/800x/a/256825/sc/41" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/853d1ba78f35e35100f03ce923192a28.png/s/800x/a/256825/sc/41) | [<img src="https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/67293ac550bb62d33ec5f7e7b5879fa7.png/s/800x/a/256825/sc/210" height="150">](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/67293ac550bb62d33ec5f7e7b5879fa7.png/s/800x/a/256825/sc/210) |  [<img src="https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/02881ad96bf569bc593468f2dfd247f3.png/s/800x/a/256825/sc/167" height="150">](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/02881ad96bf569bc593468f2dfd247f3.png/s/800x/a/256825/sc/167) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/7d0e6b59bea765fdac27e1cb0c24c037.png/s/800x/a/256825/sc/328" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/7d0e6b59bea765fdac27e1cb0c24c037.png/s/800x/a/256825/sc/328) |
+| "Промпт инжиниринг" (продвинутая программа).<br>Диплом №42197 | "Вайб-кодинг с OpenClaw" (практический курс).<br>Диплом №41070 |
+|--------|--------|
+| [<img src="https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106" height="150">](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217) |
+
+| Интенсив по промпт-инжинирингу. Диплом №21630. | Интенсив по программированию на Python с помощью chatGPT. Диплом №21788. | Интенсив по разработке Telegram-бота-нутрициолога с AI-ассистентом на Salebot. Диплом №34602 | Интенсив по вайбкодингу 3.0. Диплом №37628 |
+|--------|--------|--------|--------|
+| [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/853d1ba78f35e35100f03ce923192a28.png/s/800x/a/256825/sc/41" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/853d1ba78f35e35100f03ce923192a28.png/s/800x/a/256825/sc/41) | [<img src="https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/67293ac550bb62d33ec5f7e7b5879fa7.png/s/800x/a/256825/sc/210" height="150">](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/67293ac550bb62d33ec5f7e7b5879fa7.png/s/800x/a/256825/sc/210) |  [<img src="https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/02881ad96bf569bc593468f2dfd247f3.png/s/800x/a/256825/sc/167" height="150">](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/02881ad96bf569bc593468f2dfd247f3.png/s/800x/a/256825/sc/167) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/7d0e6b59bea765fdac27e1cb0c24c037.png/s/800x/a/256825/sc/328" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/7d0e6b59bea765fdac27e1cb0c24c037.png/s/800x/a/256825/sc/328) |
 
 ℹ️ _Кликните уменьшенное изображение чтобы посмотреть полноразмерный вариант_
 
