@@ -22,11 +22,11 @@
 ### Персональный бот ИИ-ассистент для работы с заметками и напоминаниями
 Telegram-бот, который принимает произвольные фразы на русском языке, классифицирует их через локальную LLM (трёхпроходная архитектура), сохраняет в базу данных с извлечением сущностей, тегов и временных меток, и управляет напоминаниями. Работает полностью на локальной инфраструктуре — данные не покидают домашний сервер.
 
-Пример результата (🚧 скоро) & [README](results/ast-cj-mvp1/README_copy.md)  / [project repository - MVP v1 🔒](https://github.com/ConStranger/ast-cj) / [project repository - v2 🔒](https://github.com/ConStranger/ast-cj2) (🚧 в работе)
+**MVP v1**: Пример результата (🚧 скоро) & [README](results/ast-cj-mvp1/README_copy.md)  / [project repository 🔒](https://github.com/ConStranger/ast-cj)
 
 Во второй версии (MVP v2) проект развивается: переработана архитектура поиска — запрос разбирается моделью, поиск идёт по полнотекстовому индексу с фильтрами; упрощена модель данных; разбор времени переведён на схему «модель извлекает структуру, код считает дату».
 
-Пример результата: [screens](results/ast-cj-mvp2/screens.md) & [README](results/ast-cj-mvp2/README.md) / [project repository - v2 🔒](https://github.com/ConStranger/ast-cj2)
+**MVP v2**: [Пример результата](results/ast-cj-mvp2/screens.md) & [README](results/ast-cj-mvp2/README.md) / [project repository 🔒](https://github.com/ConStranger/ast-cj2)
 
 ### Автоматизация приема заявок, интеграция с CRM
 
