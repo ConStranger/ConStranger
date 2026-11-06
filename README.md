@@ -16,7 +16,7 @@
 
 🚧🚧 Внимание: раздел дорабатывается! 🚧🚧
 
-В репозиториях выложены некоторые из проектов, реализованных в процессе освоения технологий и инструментов для работы с ИИ, в том числе в рамках прохождения курсов Университета Zerocoder "Prompt Engineering", "Вайб-кодинг с OpenClaw", а иакже интенсивов по ИИ тематике.<br> 
+В репозиториях выложены некоторые из проектов, реализованных в процессе освоения технологий и инструментов для работы с ИИ, в том числе в рамках прохождения курсов и интенсивов Университета Zerocoder по ИИ тематике.<br> 
 (p.s. К приватным проектам, отмеченным 🔒 доступ могу предоставить по запросу)
 
 ### Персональный бот ИИ-ассистент для работы с заметками и напоминаниями
@@ -63,9 +63,9 @@ Telegram-бот, который принимает произвольные фр
 ## 👨🏻‍🎓 Сертификаты
 Ниже представлены некоторые из моих сертификатов по результатам обучения
 
-| "Промпт инжиниринг"<br>(продвинутая программа).<br>Диплом №42197 | "Вайб-кодинг с OpenClaw"<br>(практический курс).<br>Диплом №41070 | "Вайб-кодинг на Claude Code"<br>(практический курс).<br>Диплом №44351 |
+| "Промпт инжиниринг"<br>(продвинутая программа).<br>Диплом №42197 | "Вайб-кодинг с OpenClaw"<br>(практический курс).<br>Диплом №41070 | "Вайб-кодинг на Claude Code"<br>(практический курс).<br>Диплом №45384 |
 |--------|--------|--------|
-| [<img src="https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106" height="150">](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217) | [<img src="https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/0c6ae7e04bca0514f4078606a2aa4988.png/s/800x/a/256825/sc/134" height="150">](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/0c6ae7e04bca0514f4078606a2aa4988.png/s/800x/a/256825/sc/134) |
+| [<img src="https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106" height="150">](https://fs-thb01.getcourse.ru/fileservice/file/thumbnail/h/92e5c867eb5ac94755450dfc76002b62.png/s/800x/a/256825/sc/106) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/3d5b3cd1eef2b464510aec2820921be0.png/s/800x/a/256825/sc/217) | [<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/56f93de90bcd986b1c0690c9c639bdbb.png/s/800x/a/256825/sc/303" height="150">](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/56f93de90bcd986b1c0690c9c639bdbb.png/s/800x/a/256825/sc/303) |
 
 | Интенсив по промпт-инжинирингу. Диплом №21630. | Интенсив по программированию на Python с помощью chatGPT. Диплом №21788. | Интенсив по разработке Telegram-бота-нутрициолога с AI-ассистентом на Salebot. Диплом №34602 | Интенсив по вайбкодингу 3.0. Диплом №37628 |
 |--------|--------|--------|--------|
